@@ -14,6 +14,8 @@
 - [text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
 - [text-decoration](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration)
 - [line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+- [vertical-align](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align)
+- [text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 - [background-color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
 - [background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image)
 
