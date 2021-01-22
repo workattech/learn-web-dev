@@ -114,6 +114,6 @@
 - Follow the best practices as mentioned above.
 
 ## Next Steps
-- Experiment with the properties of [index.html](./index.html)
+- Experiment with the all the properties from above
 - Skim [CSS Common Usecases](https://developer.mozilla.org/en-US/docs/Learn/CSS/Howto#common_use_cases)
 - Skim [Debugging CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)

@@ -50,6 +50,9 @@
 - [Row](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr)
 - [Header Cell](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th)
 - [Data Cell](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td)
+- [Table Head](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/thead)
+- [Table Body](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
+- [Table Foot](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tfoot)
 
 ## Container
 - [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
