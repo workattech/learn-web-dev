@@ -12,7 +12,7 @@
   - [Free Guide](./learn-html.md)
 - Learn CSS Basics
   - [Free Guide](./learn-css-basics.md)
-- Build Portfolio Website (WIP)
+- [Build Portfolio Website](https://workattech-gcnit.netlify.app)
 - Learn about Web 101 (WIP)
 - Learn JS on the Web: DOM Manipulation, Browser Storage, Events, Async, Promise, Ajax (WIP)
 
