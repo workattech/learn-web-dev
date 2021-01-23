@@ -37,6 +37,7 @@
 - [max-height](https://developer.mozilla.org/en-US/docs/Web/CSS/max-height), [max-width](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width)
 - [padding-top](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top), [padding-right](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-right), [padding-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-bottom), [padding-left](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-left)
 - [margin-top](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-top), [margin-right](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right), [margin-bottom](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-bottom), [margin-left](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-left)
+- [border-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width), [border-style](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style), [border-color](https://developer.mozilla.org/en-US/docs/Web/CSS/border-color), [border-radius](https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius)
 
 
 ## Other Common Properties
