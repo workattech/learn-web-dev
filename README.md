@@ -10,8 +10,10 @@
 - Build [Quiz App](https://workat.tech/courses/javascript-for-java-programmers-28uci2chro1b/final-assessment-ozcrivz3sex6/ukyl978dmwb1) and [Utility Apps](https://workat.tech/courses/javascript-for-java-programmers-28uci2chro1b/final-assessment-ozcrivz3sex6/3xv652lz4tdc)
 - Learn HTML
   - [Free Guide](./learn-html.md)
+  - [Private Video](https://www.youtube.com/watch?v=gwBcDSOSS3M&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=3&t=0s)
 - Learn CSS Basics
   - [Free Guide](./learn-css-basics.md)
+  - [Private Video](https://www.youtube.com/watch?v=gwBcDSOSS3M&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=3&t=10127s)
 - [Build Portfolio Website](https://workattech-gcnit.netlify.app)
 - Learn about Web 101 (WIP)
 - Learn JS on the Web: DOM Manipulation, Browser Storage, Events, Async, Promise, Ajax (WIP)
