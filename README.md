@@ -18,6 +18,7 @@
 - [Build Portfolio Website](https://workattech-gcnit.netlify.app)
 - Learn JS on the Browser: DOM, Events
   - [Paid Course](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w)
+  - [Private Video](https://www.youtube.com/watch?v=CiHqVBa-bPM&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=7)
 - Learn about Web Basics, Async, Promise, Ajax (WIP)
 
 ## Backend 101 (RESTful APIs using Node+Express)
