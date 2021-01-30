@@ -14,9 +14,11 @@
 - Learn CSS Basics
   - [Free Guide](./learn-css-basics.md)
   - [Private Video](https://www.youtube.com/watch?v=gwBcDSOSS3M&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=3&t=10127s)
+- [Learn deployment on Netlify](https://www.youtube.com/watch?v=4pomXPHbG2U)
 - [Build Portfolio Website](https://workattech-gcnit.netlify.app)
-- Learn about Web 101 (WIP)
-- Learn JS on the Web: DOM Manipulation, Browser Storage, Events, Async, Promise, Ajax (WIP)
+- Learn JS on the Browser: DOM, Events
+  - [Paid Course](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w)
+- Learn about Web Basics, Async, Promise, Ajax (WIP)
 
 ## Backend 101 (RESTful APIs using Node+Express)
 - Learn about designing the backend using REST and MVC (WIP)
