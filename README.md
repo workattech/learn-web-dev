@@ -19,6 +19,14 @@
 - Learn JS on the Browser: DOM, Events
   - [Paid Course](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w)
   - [Private Video](https://www.youtube.com/watch?v=CiHqVBa-bPM&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=7)
+- Build Utility Apps:
+  - [Encoders/Decoders](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/xvcurt4wgw6q)
+  - [RGB/HEX Converter](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/z1z8m6usztdd)
+  - [Timestamp Converter](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/bn1iq3g1zpb9)
+  - [Unit Converters](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/n7zssche26g3)
+  - [Number Base Converters](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/e9dk3ijn2ma5)
+  - [Text Tools/String Utilities](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/jgcqhtm5d3d3)
+  - [Utility App - Main Website](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/kts9me22ldge)
 - Learn about Web Basics, Async, Promise, Ajax (WIP)
 
 ## Backend 101 (RESTful APIs using Node+Express)
