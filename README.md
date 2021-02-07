@@ -27,15 +27,19 @@
   - [Number Base Converters](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/e9dk3ijn2ma5)
   - [Text Tools/String Utilities](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/jgcqhtm5d3d3)
   - [Utility App - Main Website](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/kts9me22ldge)
+- [Linting](https://gist.github.com/gcnit/81e682c62b2abac426062d99a651fb60)
+- Learn Intermediate CSS: Position, Selectors, Flex, Grid, media, specificity
+  - [Free Guide](https://github.com/workattech/learn-web-dev/blob/master/learn-css-intermediate.md)
+  - [Paid Course](https://workat.tech/courses/css-intermediate-szc1ps6324ks)
+  - [Private Video](https://www.youtube.com/watch?v=Lh_5FZSgxL8) 
 - Learn about Web Basics, Async, Promise, Ajax (WIP)
 
 ## Backend 101 (RESTful APIs using Node+Express)
 - Learn about designing the backend using REST and MVC (WIP)
 - Learn express.js (WIP)
 
-## React and Intermediate CSS
+## React
 - Learn React (WIP)
-- Learn Intermediate CSS: Position, Selectors, Flex, Grid, media, specificity (WIP)
 
 ## MongoDB and Session Management
 - Learn mongodb, mongoose and DB Design (WIP)
