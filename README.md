@@ -31,7 +31,8 @@
 - Learn Intermediate CSS: Position, Selectors, Flex, Grid, media, specificity
   - [Free Guide](https://github.com/workattech/learn-web-dev/blob/master/learn-css-intermediate.md)
   - [Paid Course](https://workat.tech/courses/css-intermediate-szc1ps6324ks)
-  - [Private Video](https://www.youtube.com/watch?v=Lh_5FZSgxL8) 
+  - [Private Video](https://www.youtube.com/watch?v=Lh_5FZSgxL8)
+- Check out and use the [best UI design resources](awesome-ui-design-resources.md)
 - Learn about Web Basics, Async, Promise, Ajax (WIP)
 
 ## Backend 101 (RESTful APIs using Node+Express)
