@@ -33,7 +33,9 @@
   - [Paid Course](https://workat.tech/courses/css-intermediate-szc1ps6324ks)
   - [Private Video](https://www.youtube.com/watch?v=Lh_5FZSgxL8)
 - Check out and use the [best UI design resources](awesome-ui-design-resources.md)
-- Learn about Web Basics, Async, Promise, Ajax (WIP)
+- Learn about Web Basics, Async, Promise, Ajax
+  - [Paid Course](https://workat.tech/courses/web-101-async-javascript-y8a9fnker9hk)
+  - [Private Video](https://youtu.be/qSCym9QTQV0)
 
 ## Backend 101 (RESTful APIs using Node+Express)
 - Learn about designing the backend using REST and MVC (WIP)
