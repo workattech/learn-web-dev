@@ -1,0 +1,4 @@
+- [How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+- [HTTP — an Application-Level Protocol](https://dev.opera.com/articles/http-basic-introduction/)
+- [HTTP: Let’s GET It On!](https://dev.opera.com/articles/http-lets-get-it-on/)
+- [HTTP: Response Codes](https://dev.opera.com/articles/http-response-codes/)
