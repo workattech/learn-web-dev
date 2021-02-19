@@ -29,13 +29,14 @@
   - [Utility App - Main Website](https://workat.tech/courses/javascript-dom-and-events-f1a80gu35n1w/assignments-utility-apps-zo0porse17sb/kts9me22ldge)
 - [Linting](https://gist.github.com/gcnit/81e682c62b2abac426062d99a651fb60)
 - Learn Intermediate CSS: Position, Selectors, Flex, Grid, media, specificity
-  - [Free Guide](https://github.com/workattech/learn-web-dev/blob/master/learn-css-intermediate.md)
   - [Paid Course](https://workat.tech/courses/css-intermediate-szc1ps6324ks)
   - [Private Video](https://www.youtube.com/watch?v=Lh_5FZSgxL8)
+  - [Free Guide](https://github.com/workattech/learn-web-dev/blob/master/learn-css-intermediate.md)
 - Check out and use the [best UI design resources](awesome-ui-design-resources.md)
 - Learn about Web Basics, Async, Promise, Ajax
   - [Paid Course](https://workat.tech/courses/web-101-async-javascript-y8a9fnker9hk)
   - [Private Video](https://youtu.be/qSCym9QTQV0)
+  - Free Guide: [Web Basics](web-basics-guide.md), [Async JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) and [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Backend 101 (RESTful APIs using Node+Express)
 - Learn express.js (WIP)
