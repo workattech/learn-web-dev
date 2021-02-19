@@ -38,8 +38,10 @@
   - [Private Video](https://youtu.be/qSCym9QTQV0)
 
 ## Backend 101 (RESTful APIs using Node+Express)
-- Learn about designing the backend using REST and MVC (WIP)
 - Learn express.js (WIP)
+  - [Free Guide](https://expressjs.com/)
+- Learn about designing the backend using REST
+  - [Free Guide](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## React
 - Learn React (WIP)
