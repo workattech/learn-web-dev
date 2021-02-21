@@ -39,9 +39,13 @@
   - Free Guide: [Web Basics](web-basics-guide.md), [Async JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) and [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Backend 101 (RESTful APIs using Node+Express)
-- Learn express.js (WIP)
+- Learn how to build a backend server using express.js
+  - [Paid Course](https://workat.tech/courses/building-backend-express-1gh9co43np17)
+  - [Private Video](https://www.youtube.com/watch?v=aw6zf8ztF1E)
   - [Free Guide](https://expressjs.com/)
-- Learn about designing the backend using REST
+- Learn about designing APIs
+  - [Paid Course](https://workat.tech/courses/designing-apis-rrjs7pq30uw4)
+  - [Private Video](https://www.youtube.com/watch?v=aQdZpWt1NuY)
   - [Free Guide](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## React
