@@ -49,7 +49,9 @@
   - [Free Guide](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## React
-- Learn React (WIP)
+  - [Paid Course](https://workat.tech/courses/building-frontend-with-react-33aehnjawq75)
+  - Private Video: [React Basics](https://www.youtube.com/watch?v=3ZVR4v1Injs&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=23), [React Intermediate](https://www.youtube.com/watch?v=Igm2tHRKxIw&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=24), [React Router](https://www.youtube.com/watch?v=UrnqAccmwis&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=25&t=1s), [Building, Deploying and Backend Integration](https://www.youtube.com/watch?v=5ohkuHs_gBw&list=PLNKpgbhcZ9hjYEOjAwfXEMlAWPhGaYtzM&index=26)
+  - [Free Guide](https://reactjs.org/docs/getting-started.html)
 
 ## MongoDB and Session Management
 - Learn mongodb, mongoose and DB Design (WIP)
