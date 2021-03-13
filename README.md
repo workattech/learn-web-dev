@@ -55,7 +55,7 @@
 
 ## MongoDB and Session Management
 - Learn mongodb, mongoose
-  - Paid Course :[MongoDB](https://workat.tech/courses/storing-retrieving-data-mongodb-2dsqqvlk425y), [Mongoose](https://workat.tech/courses/mongodb-nodejs-0dou4swvb7r9)
+  - Paid Course: [MongoDB](https://workat.tech/courses/storing-retrieving-data-mongodb-2dsqqvlk425y), [Mongoose](https://workat.tech/courses/mongodb-nodejs-0dou4swvb7r9)
   - Free Guide: [MongoDB](https://docs.mongodb.com/manual/introduction), [Mongoose](https://mongoosejs.com/docs)
 - Learn session management (WIP)
 
