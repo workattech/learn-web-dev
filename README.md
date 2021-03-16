@@ -36,7 +36,7 @@
 - Learn about Web Basics, Async, Promise, Ajax
   - [Paid Course](https://workat.tech/courses/web-101-async-javascript-y8a9fnker9hk)
   - [Private Video](https://youtu.be/qSCym9QTQV0)
-  - Free Guide: [Web Basics](web-basics-guide.md), [Async JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) and [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+  - Free Guide: [Web Basics](https://workat.tech/fullstack-development/article/open-website-browser-web-101-4ni7enafyesf), [Async JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) and [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Backend 101 (RESTful APIs using Node+Express)
 - Learn how to build a backend server using express.js
@@ -46,7 +46,7 @@
 - Learn about designing APIs
   - [Paid Course](https://workat.tech/courses/designing-apis-rrjs7pq30uw4)
   - [Private Video](https://www.youtube.com/watch?v=aQdZpWt1NuY)
-  - [Free Guide](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+  - Free Guide: [Basics](https://workat.tech/backend-development/article/designing-apis-basics-l64bq1id8gew), [Best Practices](https://workat.tech/backend-development/article/designing-apis-best-practices-s7ztn7tlqs21), [Versioning](https://workat.tech/backend-development/article/designing-apis-versioning-10mopbtp26pg)
 
 ## React
   - [Paid Course](https://workat.tech/courses/building-frontend-with-react-33aehnjawq75)
@@ -56,8 +56,12 @@
 ## MongoDB and Session Management
 - Learn mongodb, mongoose
   - Paid Course: [MongoDB](https://workat.tech/courses/storing-retrieving-data-mongodb-2dsqqvlk425y), [Mongoose](https://workat.tech/courses/mongodb-nodejs-0dou4swvb7r9)
+  - [Private Video](https://www.youtube.com/watch?v=Y7kdxGGVq2k)
   - Free Guide: [MongoDB](https://docs.mongodb.com/manual/introduction), [Mongoose](https://mongoosejs.com/docs)
-- Learn session management (WIP)
+- Learn session management:
+  - [Code](https://github.com/workattech/mern-app)
+  - [Private Video](https://www.youtube.com/watch?v=zYf8iJGb7zQ)
+- Project: [Rating and Review Website](https://workat.tech/project-ideas/article/rating-and-review-website-project-idea-3dnk584ybk92)
 
 ## Capstone Project
 - Learn the e-commerce lifecycle and build an e-commerce website (WIP)
