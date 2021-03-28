@@ -64,4 +64,7 @@
 - Project: [Rating and Review Website](https://workat.tech/project-ideas/article/rating-and-review-website-project-idea-3dnk584ybk92)
 
 ## Capstone Project
-- Learn the e-commerce lifecycle and build an e-commerce website (WIP)
+- Learn the e-commerce lifecycle and build an e-commerce website
+  - [Requirement](https://workat.tech/project-ideas/article/build-ecommerce-website-app-fev96jcgtwff)
+  - [Course](https://workat.tech/courses/build-ecommerce-website-yndo9j9r6rp1)
+  - [Private Video](https://www.youtube.com/watch?v=fsRtyqLj9XQ)
